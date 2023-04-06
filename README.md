@@ -1,2 +1,2 @@
 # Introdu-o-a-Programa-o-Web
-Aqui estão reunidos os aprendizados do curso de introdução ao desenvolvimento WEB
+Aqui estão reunidos alguns dos aprendizados básicos do curso de introdução ao desenvolvimento WEB
